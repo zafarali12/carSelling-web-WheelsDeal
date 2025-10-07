@@ -106,7 +106,7 @@ const Footer = () => {
         <p className=" text-center py-4">
           @copyright developed by
           <span className=" text-primary font-semibold mx-2">
-            champion programmers
+            Zafar
           </span>
           | All rights reserved
         </p>
